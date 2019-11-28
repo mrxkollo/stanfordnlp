@@ -263,9 +263,6 @@ def load_conllu(file):
                 ud.words.append(UDWord(ud.tokens[-1], word_columns, is_multiword=True))
         # Basic tokens/words
         else:
-            word_id = int(columns[ID])
-            head_id = int(columns[HEAD])
-
             ud.words.append(UDWord(ud.tokens[-1], columns, is_multiword=False))
 
     if sentence_start is not None:
