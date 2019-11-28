@@ -202,17 +202,7 @@ def load_conllu(file):
         if not line:
             # Add parent and children UDWord links and check there are no cycles
             def process_word(word):
-                if word.parent == "remapping":
-                    raise UDError("There is a cycle in a sentence")
-                if word.parent is None:
-                    head = int(word.columns[HEAD])
-                    if head < 0 or head > len(ud.words) - sentence_start:
-                        pass
-                    if head:
-                        parent = ud.words[sentence_start + head - 1]
-                        word.parent = "remapping"
-                        process_word(parent)
-                        word.parent = parent
+                pass
 
 
             for word in ud.words[sentence_start:]:
