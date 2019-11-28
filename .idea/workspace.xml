@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="425942a1-aab2-4837-befb-fbd5c679da65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/create_script.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/question.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/_et_edt.dev.gold.conllu" beforeDir="false" afterPath="$PROJECT_DIR$/RESULTS/B1/_et_edt.dev.gold.conllu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/_et_edt.dev.in.conllu" beforeDir="false" afterPath="$PROJECT_DIR$/RESULTS/B1/_et_edt.dev.in.conllu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DATA/_et_edt.train.in.conllu" beforeDir="false" afterPath="$PROJECT_DIR$/RESULTS/B1/_et_edt.train.in.conllu" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RESULTS/B1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/RESULTS/B1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/StanfordNLP_Beginners_Guide.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/StanfordNLP_CoreNLP_Interface.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/corenlp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pipeline_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/CoreNLP.proto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/data/example_french.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/data/external_server.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/data/test.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_client.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_english_pipeline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_lemmatizer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_mwt_expander.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_parser.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_protobuf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_requirements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_run_pipeline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_server_misc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_server_request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_server_start.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_tagger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_tokenizer.py" beforeDir="false" />
-    </list>
+    <list default="true" id="425942a1-aab2-4837-befb-fbd5c679da65" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +45,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="336">
-                <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+                <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -95,7 +59,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="193">
-                <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+                <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -104,17 +68,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/create_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="189">
+              <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RESULTS/B2/_et_edt_lemmatizer.pt">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RESULTS/B1/_et_edt_lemmatizer.pt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -157,9 +121,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="960" />
-    <option name="width" value="964" />
-    <option name="height" value="1050" />
+    <option name="x" value="1890" />
+    <option name="y" value="102" />
+    <option name="width" value="1928" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -172,6 +137,23 @@
             <path>
               <item name="stanfordnlp" type="b2602c69:ProjectViewProjectNode" />
               <item name="stanfordnlp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stanfordnlp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stanfordnlp" type="462c0819:PsiDirectoryNode" />
+              <item name="RESULTS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stanfordnlp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stanfordnlp" type="462c0819:PsiDirectoryNode" />
+              <item name="RESULTS" type="462c0819:PsiDirectoryNode" />
+              <item name="B1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="stanfordnlp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stanfordnlp" type="462c0819:PsiDirectoryNode" />
+              <item name="RESULTS" type="462c0819:PsiDirectoryNode" />
+              <item name="B2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -217,7 +199,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574934113644</updated>
-      <workItem from="1574934117611" duration="6728000" />
+      <workItem from="1574934117611" duration="7105000" />
     </task>
     <task id="LOCAL-00001" summary="Removed validation for conllu file.">
       <created>1574937056232</created>
@@ -268,17 +250,23 @@
       <option name="project" value="LOCAL" />
       <updated>1574943089180</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Results for B1.">
+      <created>1574944215673</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574944215673</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6728000" />
+    <option name="totallyTimeSpent" value="7105000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1928" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-4" y="0" width="1928" height="1050" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6776612" visible="true" weight="0.18729989" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6776612" visible="true" weight="0.18729989" />
       <window_info id="Structure" order="1" sideWeight="0.32233882" side_tool="true" weight="0.48021978" />
       <window_info id="Favorites" order="2" sideWeight="0.31663975" side_tool="true" weight="0.22518677" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -291,7 +279,7 @@
       <window_info anchor="bottom" id="Docker" order="7" sideWeight="0.49946696" weight="0.4344978" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" visible="true" weight="0.32733408" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49839914" visible="true" weight="0.32733408" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.3941048" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50160086" side_tool="true" visible="true" weight="0.32733408" />
       <window_info anchor="right" id="ReST Console" order="0" />
@@ -315,7 +303,8 @@
     <MESSAGE value="Added results for B2." />
     <MESSAGE value="Another set of data for B1." />
     <MESSAGE value="Removed all validation in eval." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed all validation in eval." />
+    <MESSAGE value="Results for B1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Results for B1." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/DATA/.gitkeep">
@@ -359,14 +348,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RESULTS/B2/_et_edt_lemmatizer.pt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/RESULTS/B2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="336">
-            <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -378,7 +364,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="193">
-            <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -405,12 +391,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RESULTS/B2/_et_edt_lemmatizer.pt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/create_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="189">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RESULTS/B1/_et_edt_lemmatizer.pt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
