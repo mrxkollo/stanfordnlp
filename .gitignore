@@ -5,11 +5,9 @@ __pycache__/
 .DS_Store
 *.env
 *.tmp
-*.pkl
 *.lem
 *.toklabels
 
-data/
 saved_models/
 logs/
 *_test_treebanks
