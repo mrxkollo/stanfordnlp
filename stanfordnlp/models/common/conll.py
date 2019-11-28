@@ -52,7 +52,6 @@ class CoNLLFile():
                     array = line.split('\t')
                     if self.ignore_gapping and '.' in array[0]:
                         continue
-                    assert len(array) == FIELD_NUM
                     cache += [array]
         if len(cache) > 0:
             sents.append(cache)
