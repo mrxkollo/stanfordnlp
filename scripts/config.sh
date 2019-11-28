@@ -7,10 +7,10 @@
 # export UDBASE=/path/to/CoNLL18
 
 # Set directories to store processed training/evaluation files
-export DATA_ROOT=./data
+export DATA_ROOT="/home/mkollo/stanfordnlp/DATA"
 export TOKENIZE_DATA_DIR=$DATA_ROOT/tokenize
 export MWT_DATA_DIR=$DATA_ROOT/mwt
-export LEMMA_DATA_DIR=$DATA_ROOT/lemma
+export LEMMA_DATA_DIR=$DATA_ROOT
 export POS_DATA_DIR=$DATA_ROOT/pos
 export DEPPARSE_DATA_DIR=$DATA_ROOT/depparse
 export ETE_DATA_DIR=$DATA_ROOT/ete
